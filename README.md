@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 Frontend Developer
--------------
+------------------
 
 🌱 Currently, I'm immersed in the exciting world of frontend development, continually honing my skills and exploring new technologies to expand my knowledge base. With a keen eye for detail and a love for clean, efficient code, I strive to create user-friendly interfaces that leave a lasting impression. <br><br>
 🚀 If you're passionate about web development or have any exciting projects in mind, I'd love to connect and collaborate. Let's build something incredible together!
@@ -33,5 +33,3 @@ src="https://img.shields.io/twitter/follow/Hirak_7dev?logo=twitter&style=for-the
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/HiraK7dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HiraK7dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/HiraK7dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiraK7dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
