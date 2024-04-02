@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-🌱 Currently, I'm immersed in the exciting world of frontend development, continually honing my skills and exploring new technologies to expand my knowledge base. With a keen eye for detail and a love for clean, efficient code, I strive to create user-friendly interfaces that leave a lasting impression. 🚀 If you're passionate about frontend development or have any exciting projects in mind, I'd love to connect and collaborate. Let's build something incredible together!
+🌱 Currently, I'm immersed in the exciting world of frontend development, continually honing my skills and exploring new technologies to expand my knowledge base. With a keen eye for detail and a love for clean, efficient code, I strive to create user-friendly interfaces that leave a lasting impression.<br><br>🚀 If you're passionate about frontend development or have any exciting projects in mind, I'd love to connect and collaborate. Let's build something incredible together!
 
 * 🌍  I'm based in Guwahati, Assam
 * ✉️  You can contact me at [hirak.bhatta2004@gmail.com](mailto:hirak.bhatta2004@gmail.com)
